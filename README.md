@@ -52,3 +52,21 @@ An attention-guided deep learning model for automated classification of liver ci
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 📜 Publication
+
+> Chauhan K.K., Kumar A. — *"Multi-Scale Attention-Guided AG-DenseNet121 for Automated Liver Cirrhosis Stage Classification from T2-Weighted MRI Images"*
+> **NetCrypt International Conference 2026** | Paper ID: 2378 | Accepted to **IEEE Xplore**
+
+---
+
+## 👤 Author
+
+**Krishan Kumar Chauhan**
+M.Tech Data Science | Gautam Buddha University
+Supervisor: Dr. Akash Kumar, Dept. of IT, USICT
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/krishan-chauhan-714011232/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/krishanchauhan29)

@@ -2,7 +2,9 @@ __pycache__/
 *.pyc
 .DS_Store
 *.ipynb_checkpoints
-data/
+data/*.csv
+data/*.zip
+data/*.h5
 models/*.pth
 models/*.pkl
 venv/
